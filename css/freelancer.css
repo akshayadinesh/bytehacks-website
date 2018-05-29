@@ -142,6 +142,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav {
+margin-right: 20px;
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
