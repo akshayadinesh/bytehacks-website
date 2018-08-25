@@ -222,6 +222,16 @@ section.success {
 	text-align: center;
 }
 
+#schedule {
+    background: #FF69AC;
+	color: #FFFFFF;
+}
+
+#schedule hr {
+	border-width: thick;
+	color: white;
+}
+
 #faq {
 	background: #FF69AC;
 	color: #FFFFFF;
